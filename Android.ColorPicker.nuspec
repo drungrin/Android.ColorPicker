@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Android.ColorPicker</id>
+    <version>1.0.0</version>
+    <title>Android ColorPicker</title>
+    <authors>Michel Moreira</authors>
+    <projectUrl>https://github.com/drungrin/Android.ColorPicker</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Android Optional ColorPicker Binding Library</description>
+    <tags>xamarin, android, colorpicker</tags>
+  </metadata>
+  <files>
+    <file src="bin/Release/Android.ColorPicker.dll"
+          target="lib/MonoAndroid10/Android.ColorPicker.dll" />
+  </files>
+</package>

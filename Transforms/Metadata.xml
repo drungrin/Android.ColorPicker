@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<!-- Parameters -->
+	<attr path="/api/package[@name='com.android.colorpicker']/class[@name='HsvColorComparator']/method[@name='compare']/parameter[@name='p0']" name="type">Java.Lang.Object</attr>
+	<attr path="/api/package[@name='com.android.colorpicker']/class[@name='HsvColorComparator']/method[@name='compare']/parameter[@name='p1']" name="type">Java.Lang.Object</attr>
+	<!-- Namespaces -->
+	<attr path="/api/package[@name='com.android.colorpicker']" name="managedName">Android.ColorPicker</attr>	
+</metadata>
